@@ -7,8 +7,8 @@ import (
 	"context"
 	"testing"
 
+	"github.com/AsaHero/typesense-go/typesense"
 	"github.com/stretchr/testify/require"
-	"github.com/typesense/typesense-go/typesense"
 )
 
 func TestDocumentRetrieveGeneric(t *testing.T) {
