@@ -7,9 +7,9 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/typesense/typesense-go/v3/typesense/api"
-	"github.com/typesense/typesense-go/v3/typesense/api/pointer"
-	"github.com/typesense/typesense-go/v3/typesense/mocks"
+	"github.com/AsaHero/typesense-go/typesense/api"
+	"github.com/AsaHero/typesense-go/typesense/api/pointer"
+	"github.com/AsaHero/typesense-go/typesense/mocks"
 	"go.uber.org/mock/gomock"
 )
 
